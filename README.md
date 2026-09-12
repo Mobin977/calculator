@@ -9,7 +9,7 @@ This project was created as part of my **30 Projects in 30 Days Web Development 
 ## 🚀 Live Demo
 
 🔗 **Live Demo:**
-[Calculator — Live Demo](https://mobin977.github.io/calculator/)
+[Calculator — Live Demo]https://mobin977.github.io/calculator/
 
 ---
 
